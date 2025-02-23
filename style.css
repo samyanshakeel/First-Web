@@ -5,7 +5,7 @@
     font-family: arial;
 }
 body{
-    background: url(background.jpg);
+    background: url(background.webp);
     background-size: cover;
     height: 100vh;
     background-position: center;
